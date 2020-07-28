@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+body {
+font-family: 'Krona One', sans-serif;
+background-color: #212121;
+color: #FFF;
+}
+
+.navbar {
+  justify-content: center;
+  text-align: center;
+  padding: 1em;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  text-align: center;
+  justify-content: center;
+  color: #EF6262;
+}
+
+h1 {
+  font-size: 4em;
+  line-height: 1.2em;;
+  color: #FFF;
+  padding: .5em;
+}
+
+h2 {
+  color: #EF6262;
+}
+
+.btn-pink:hover, .btn-pink:active, .btn-pink:visited, .btn-pink:focus {
+  background-color: #ee4444;
+  border: none;
+}
+
+.btn-primary {
+  background-color: #FF9403;
+  border: none;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:focus  {
+  background-color: #ff6600;
+  border: none;
+}
+
+.devour {
+  padding: 1em;
+}
+
+.add-burger {
+  padding: 1em;
+  margin: 0 3em;
+  text-align: center;
+  border: 1px solid #FFF;
+  line-height: 2em;;
+}
+
+form {
+  padding-bottom: 1em;
+}
+
+#burger {
+  color: #000;
+}
+
+.devour ul li {
+  line-height: 2em;
+  padding: .25em;
+  list-style-type: none;
+}
+
+footer {
+  text-align: center;
+  padding: 5em 2em 2em 2em;
+}
