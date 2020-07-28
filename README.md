@@ -10,6 +10,6 @@ A burger logger that utilizes MySQL, Node, Express, Handlebars and a homemade OR
 * View pages via localhost within browser.
 
 ## Functionality
-![burger app demo image](/assets/img/scrummy-burgers-demo.png)
-![burger app demo image 2](/assets/img/scrummy-burgers-demo2.png)
+![burger app demo image](assets/img/scrummy-burgers-demo.png)
+![burger app demo image 2](assets/img/scrummy-burgers-demo2.png)
 
