@@ -6,7 +6,7 @@ var methodOverride = require("method-override");
 // Import routes and give the server access to them.
 var routes = require("./controllers/burgers_controller.js");
 
-var port = process.env.port || 8080;
+var PORT = process.env.port || 8080;
 
 var app = express();
 
@@ -26,4 +26,7 @@ app.set("view engine", "handlebars");
 
 app.use("/", routes);
 
-app.listen(port);
+app.listen(PORT, function() {
+
+  console.log("Server listening on: http://locahost:" + PORT);
+});
