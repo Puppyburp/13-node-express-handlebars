@@ -6,7 +6,7 @@ var methodOverride = require("method-override");
 // Import routes and give the server access to them.
 var routes = require("./controllers/burgers_controller.js");
 
-var PORT = process.env.port || 8080;
+var PORT = process.env.PORT || 8080;
 
 var app = express();
 
