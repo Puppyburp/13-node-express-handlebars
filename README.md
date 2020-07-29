@@ -9,6 +9,9 @@ A burger logger that utilizes MySQL, Node, Express, Handlebars and a homemade OR
 * Run within your console.
 * View pages via localhost within browser.
 
+## Live Demo
+(https://hidden-brushlands-11251.herokuapp.com/)
+
 ## Functionality
 ![burger app demo image](public/assets/img/scrummy-burgers-demo.png)
 ![burger app demo image 2](public/assets/img/scrummy-burgers-demo2.png)
